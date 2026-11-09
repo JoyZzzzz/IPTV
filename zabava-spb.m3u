@@ -1,0 +1,88 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png", Первый канал
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png", Пятый канал
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png", Россия 1
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png", НТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png", РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SPBR/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png", СТС
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS_SPBR/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png", СТС
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png", ТНТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png", ТВ-3
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png", Пятница!
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png", Россия 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png", ОТР
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png", Домашний
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png", Звезда
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png", МИР
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png", ТВ Центр
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png", Матч! ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png", Россия К
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png", Карусель
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png", Спас
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png", МУЗ-ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png", Че!
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png", ТНТ4
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png", Ю
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png", Ю
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png", 2x2
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="78kanal" tvg-logo="https://iptvx.one/picons/78kanal.png", 78
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png", Санкт-Петербург
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/variant.m3u8
+#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png", Санкт-Петербург HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
